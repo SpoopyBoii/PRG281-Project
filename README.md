@@ -16,7 +16,3 @@ I personally created everything front-end related as well as adding the backbone
 Then obviously the back-end was a group effort.
 
 ("Caesar: (Sign Language) Apes alone weak. Apes together strong" - Rise of the Planet of the Apes)
-
--------------------
-I also did most of the code that queries the data from the sql database.
--------------------
