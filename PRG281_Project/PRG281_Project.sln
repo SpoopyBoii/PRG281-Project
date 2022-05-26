@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRG281_Project", "PRG281_Project\PRG281_Project.csproj", "{F5D1F188-25A1-4467-B3D3-D0BB319CA3F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuzikMashLib", "MuzikMashLib\MuzikMashLib.csproj", "{F51F7D62-533D-4B52-A010-21CD36E1500F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5D1F188-25A1-4467-B3D3-D0BB319CA3F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D1F188-25A1-4467-B3D3-D0BB319CA3F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5D1F188-25A1-4467-B3D3-D0BB319CA3F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5D1F188-25A1-4467-B3D3-D0BB319CA3F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F51F7D62-533D-4B52-A010-21CD36E1500F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F51F7D62-533D-4B52-A010-21CD36E1500F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F51F7D62-533D-4B52-A010-21CD36E1500F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F51F7D62-533D-4B52-A010-21CD36E1500F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FD12F6D-0875-4CEF-9467-34BCC03DD49F}
+	EndGlobalSection
+EndGlobal
